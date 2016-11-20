@@ -1,0 +1,25 @@
+[{
+  "id": "1",
+  "title": "Edison Park Carwash",
+  "location": "Edison Park"
+}, {
+  "id": "2",
+  "title": "Roscoe Village Carwash",
+  "location": "Roscoe Village"
+}, {
+  "id": "3",
+  "title": "Beverly Carwash",
+  "location": "Beverly"
+}, {
+  "id": "4",
+  "title": "Lakeshore East Carwash",
+  "location": "Lakeshore East"
+}, {
+  "id": "5",
+  "title": "Bridgeport Carwash",
+  "location": "Bridgeport"
+}, {
+  "id": "6",
+  "title": "New Lenox  Carwash",
+  "location": "New Lenox"
+}]

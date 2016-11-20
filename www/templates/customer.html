@@ -1,0 +1,13 @@
+<ion-view view-title="{{customer.Lastname}}  {{customer.Firstname}}">
+  <ion-content>
+    <div class="list card">
+      <div class="card">
+        <div class="item item-text-wrap" data-ng-repeat="(key, value) in customer" ng-if="key != 'id'">
+          <div>
+            {{key}} : {{value}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

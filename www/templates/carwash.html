@@ -1,0 +1,68 @@
+<ion-view view-title="{{carwashDetails.title}}">
+  <ion-content>
+
+
+
+    <div class="list card">
+      <div class="item item-body">
+        <h2> Facility Detail:  </h2>
+
+        <div class="item item-divider">
+          Location : {{carwashDetails.location}}
+        </div>
+        <div class="item item-divider">
+          Average service time : {{carwashDetails.averageTime | secondsToHHmmss}} h
+        </div>
+        <div class="item item-divider">
+          Total collections : ${{carwashDetails.totalCollection}}
+        </div>
+      </div>
+    </div>
+
+    <div class="list card">
+      <div class="item item-body">
+        <h2> Cars Detail:  </h2>
+        <div class="list" data-ng-repeat="cars in carwashDetails.cars">
+
+          <div class="item item-divider">
+            No. {{$index+1}}
+          </div>
+
+          <div class="item item-text-wrap">
+            Model : {{cars.model}}
+          </div>
+
+          <div class="item item-text-wrap">
+            Make : {{cars.make}}
+          </div>
+          <div class="item item-text-wrap">
+            Year : {{cars.year}}
+          </div>
+
+          <div class="item item-text-wrap">
+            Cost : ${{cars.cost}}
+          </div>
+
+          <div class="item item-text-wrap">
+            Service time : {{cars.service_time | secondsToHHmmss}} h
+          </div>
+
+          <div class="card">
+
+            <div class="item item-divider">
+              Customer details :
+            </div>
+
+            <div class="item item-text-wrap">
+              Name :
+              <a href="#/app/customers/{{cars.users_detail.id}}">
+                   {{cars.users_detail.Lastname}} {{cars.users_detail.Firstname}}
+                </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

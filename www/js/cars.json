@@ -1,0 +1,793 @@
+[{
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 1100 TURBO SNO PRO RR",
+  "cust_id": "1",
+  "user_id": "1",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 800 LXR",
+  "cust_id": "1",
+  "user_id": "2",
+  "service_time": 2500,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 800 SNO PRO",
+  "cust_id": "1",
+  "user_id": "3",
+  "service_time": 3600,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 800 SNO PRO LIMITED",
+  "cust_id": "1",
+  "user_id": "4",
+  "service_time": 3000,
+  "cost": 300
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 800 SNO PRO RR",
+  "cust_id": "1",
+  "user_id": "5",
+  "service_time": 2400,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS F 800 TUCKER HIBBERT RACE",
+  "cust_id": "1",
+  "user_id": "6",
+  "service_time": 3600,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 CROSSTOUR",
+  "cust_id": "1",
+  "user_id": "7",
+  "service_time": 2400,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 LXR",
+  "cust_id": "1",
+  "user_id": "8",
+  "service_time": 4500,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 SNO PRO",
+  "cust_id": "1",
+  "user_id": "9",
+  "service_time": 4200,
+  "cost": 200
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 SNO PRO LIMITED",
+  "cust_id": "1",
+  "user_id": "10",
+  "service_time": 3600,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 TURBO CROSSTOUR",
+  "cust_id": "2",
+  "user_id": "11",
+  "service_time": 3600,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 TURBO LXR",
+  "cust_id": "2",
+  "user_id": "12",
+  "service_time": 3600,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 TURBO SNO PRO",
+  "cust_id": "2",
+  "user_id": "13",
+  "service_time": 2400,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 1100 TURBO SNO PRO LIMI",
+  "cust_id": "2",
+  "user_id": "14",
+  "service_time": 2900,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 800 CROSSTOUR",
+  "cust_id": "2",
+  "user_id": "15",
+  "service_time": 2500,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 800 LXR",
+  "cust_id": "2",
+  "user_id": "16",
+  "service_time": 2800,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 800 SNO PRO",
+  "cust_id": "2",
+  "user_id": "17",
+  "service_time": 2500,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROCROSS XF 800 SNO PRO LIMITED",
+  "cust_id": "2",
+  "user_id": "18",
+  "service_time": 2700,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROWLER HDX 700I",
+  "cust_id": "2",
+  "user_id": "19",
+  "service_time": 3000,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROWLER XT 550I",
+  "cust_id": "2",
+  "user_id": "20",
+  "service_time": 4200,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROWLER XTX 700I",
+  "cust_id": "2",
+  "user_id": "21",
+  "service_time": 4500,
+  "cost": 200
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "PROWLER XTZ 1000I",
+  "cust_id": "2",
+  "user_id": "22",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "SNO PRO 500",
+  "cust_id": "2",
+  "user_id": "23",
+  "service_time": 2000,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "T570",
+  "cust_id": "2",
+  "user_id": "24",
+  "service_time": 2700,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TBX 700 XT",
+  "cust_id": "2",
+  "user_id": "25",
+  "service_time": 2000,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 1000 LTD",
+  "cust_id": "2",
+  "user_id": "26",
+  "service_time": 2500,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 400 CORE",
+  "cust_id": "2",
+  "user_id": "27",
+  "service_time": 3000,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 500 CORE",
+  "cust_id": "2",
+  "user_id": "28",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 550 LTD",
+  "cust_id": "2",
+  "user_id": "29",
+  "service_time": 2400,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 550 XT",
+  "cust_id": "3",
+  "user_id": "30",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 700 LTD",
+  "cust_id": "3",
+  "user_id": "31",
+  "service_time": 1900,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TRV 700 XT",
+  "cust_id": "3",
+  "user_id": "32",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TZ1",
+  "cust_id": "3",
+  "user_id": "32",
+  "service_time": 2100,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TZ1 LXR",
+  "cust_id": "3",
+  "user_id": "34",
+  "service_time": 2200,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TZ1 TURBO LXR",
+  "cust_id": "3",
+  "user_id": "35",
+  "service_time": 2300,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "TZ1 TURBO TOURING LXR",
+  "cust_id": "3",
+  "user_id": "36",
+  "service_time": 2400,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "WILDCAT 1000",
+  "cust_id": "4",
+  "user_id": "37",
+  "service_time": 2500,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "WILDCAT 1000 LTD",
+  "cust_id": "4",
+  "user_id": "38",
+  "service_time": 2500,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "WILDCAT 4 1000",
+  "cust_id": "4",
+  "user_id": "39",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "WILDCAT X 1000",
+  "cust_id": "4",
+  "user_id": "40",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ARCTIC CAT",
+  "model": "XC 450I",
+  "cust_id": "4",
+  "user_id": "41",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARGO",
+  "model": "8X8 700 HD",
+  "cust_id": "4",
+  "user_id": "42",
+  "service_time": 2400,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ARGO",
+  "model": "8X8 750 HDI",
+  "cust_id": "5",
+  "user_id": "43",
+  "service_time": 4200,
+  "cost": 200
+}, {
+  "year": 2013,
+  "make": "ARGO",
+  "model": "8X8 750 HDI SE",
+  "cust_id": "5",
+  "user_id": "44",
+  "service_time": 3000,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "ARGO",
+  "model": "8X8 XTI",
+  "cust_id": "6",
+  "user_id": "45",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "ASTON MARTIN",
+  "model": "DB9",
+  "cust_id": "6",
+  "user_id": "46",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "ASTON MARTIN",
+  "model": "RAPIDE",
+  "cust_id": "6",
+  "user_id": "47",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ASTON MARTIN",
+  "model": "V12 VANTAGE",
+  "cust_id": "6",
+  "user_id": "48",
+  "service_time": 2200,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "ASTON MARTIN",
+  "model": "V8 VANTAGE",
+  "cust_id": "6",
+  "user_id": "49",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A1",
+  "cust_id": "6",
+  "user_id": "50",
+  "service_time": 3000,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A3",
+  "cust_id": "6",
+  "user_id": "51",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A3 QUATTRO",
+  "cust_id": "6",
+  "user_id": "52",
+  "service_time": 2000,
+  "cost": 105
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A4",
+  "cust_id": "6",
+  "user_id": "53",
+  "service_time": 1900,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A4 ALLROAD",
+  "cust_id": "6",
+  "user_id": "54",
+  "service_time": 2100,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A4 QUATTRO",
+  "cust_id": "6",
+  "user_id": "55",
+  "service_time": 2100,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A5",
+  "cust_id": "4",
+  "user_id": "56",
+  "service_time": 2500,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A5 QUATTRO",
+  "cust_id": "5",
+  "user_id": "57",
+  "service_time": 2700,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A6",
+  "cust_id": "5",
+  "user_id": "58",
+  "service_time": 3000,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A6 QUATTRO",
+  "cust_id": "5",
+  "user_id": "59",
+  "service_time": 2000,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A7 QUATTRO",
+  "cust_id": "5",
+  "user_id": "60",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "A8 QUATTRO",
+  "cust_id": "5",
+  "user_id": "61",
+  "service_time": 3000,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "ALLROAD",
+  "cust_id": "5",
+  "user_id": "62",
+  "service_time": 3600,
+  "cost": 190
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "ALLROAD QUATTRO",
+  "cust_id": "5",
+  "user_id": "63",
+  "service_time": 2500,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "Q3",
+  "cust_id": "5",
+  "user_id": "64",
+  "service_time": 2900,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "Q5",
+  "cust_id": "5",
+  "user_id": "65",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "Q7",
+  "cust_id": "3",
+  "user_id": "66",
+  "service_time": 2400,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "R8",
+  "cust_id": "3",
+  "user_id": "67",
+  "service_time": 3000,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "RS5",
+  "cust_id": "3",
+  "user_id": "69",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "S4",
+  "cust_id": "3",
+  "user_id": "70",
+  "service_time": 2400,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "S5",
+  "cust_id": "3",
+  "user_id": "71",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "S6",
+  "cust_id": "3",
+  "user_id": "72",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "S7",
+  "cust_id": "2",
+  "user_id": "73",
+  "service_time": 1900,
+  "cost": 105
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "S8",
+  "cust_id": "2",
+  "user_id": "74",
+  "service_time": 2000,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "TT",
+  "cust_id": "2",
+  "user_id": "75",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "AUDI",
+  "model": "TT QUATTRO",
+  "cust_id": "2",
+  "user_id": "76",
+  "service_time": 2600,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "BENTLEY",
+  "model": "CONTINENTAL",
+  "cust_id": "2",
+  "user_id": "77",
+  "service_time": 2700,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "BENTLEY",
+  "model": "MULSANNE",
+  "cust_id": "2",
+  "user_id": "78",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "BLUE BIRD",
+  "model": "ALL AMERICAN",
+  "cust_id": "2",
+  "user_id": "79",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "118I",
+  "cust_id": "2",
+  "user_id": "80",
+  "service_time": 4200,
+  "cost": 200
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "125I",
+  "cust_id": "2",
+  "user_id": "81",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "128I",
+  "cust_id": "2",
+  "user_id": "82",
+  "service_time": 2200,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "135I",
+  "cust_id": "2",
+  "user_id": "83",
+  "service_time": 2300,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "135IS",
+  "cust_id": "2",
+  "user_id": "84",
+  "service_time": 2500,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "320I",
+  "cust_id": "2",
+  "user_id": "85",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "320I XDRIVE",
+  "cust_id": "2",
+  "user_id": "86",
+  "service_time": 3200,
+  "cost": 1600
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "328I",
+  "cust_id": "2",
+  "user_id": "87",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "328I XDRIVE",
+  "cust_id": "2",
+  "user_id": "88",
+  "service_time": 2000,
+  "cost": 110
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "335I",
+  "cust_id": "2",
+  "user_id": "89",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "335I XDRIVE",
+  "cust_id": "2",
+  "user_id": "90",
+  "service_time": 2600,
+  "cost": 130
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "335IS",
+  "cust_id": "1",
+  "user_id": "91",
+  "service_time": 2800,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "528I",
+  "cust_id": "1",
+  "user_id": "92",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "528I XDRIVE",
+  "cust_id": "1",
+  "user_id": "93",
+  "service_time": 4200,
+  "cost": 200
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "530I",
+  "cust_id": "1",
+  "user_id": "94",
+  "service_time": 1800,
+  "cost": 100
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "535I",
+  "cust_id": "1",
+  "user_id": "95",
+  "service_time": 2400,
+  "cost": 120
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "535I GT",
+  "cust_id": "1",
+  "user_id": "96",
+  "service_time": 2800,
+  "cost": 140
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "535I GT XDRIVE",
+  "cust_id": "1",
+  "user_id": "97",
+  "service_time": 3000,
+  "cost": 150
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "535I XDRIVE",
+  "cust_id": "1",
+  "user_id": "98",
+  "service_time": 3200,
+  "cost": 160
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "550I",
+  "cust_id": "1",
+  "user_id": "99",
+  "service_time": 3600,
+  "cost": 180
+}, {
+  "year": 2013,
+  "make": "BMW",
+  "model": "550I GT",
+  "cust_id": "1",
+  "user_id": "100",
+  "service_time": 1800,
+  "cost": 100
+}]

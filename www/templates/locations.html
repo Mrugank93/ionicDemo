@@ -1,0 +1,9 @@
+<ion-view view-title="Car Wash App">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="locate in locations" href="#/app/locations/{{locate.id}}">
+        {{locate.location}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
